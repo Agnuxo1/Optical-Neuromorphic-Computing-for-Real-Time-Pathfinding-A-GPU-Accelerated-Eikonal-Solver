@@ -1,0 +1,6 @@
+case,gpu_time,cpu_time,speedup,mae,path_ratio,metadata
+complex_512.npz,0.019816,0.915282,46.19,inf,1.000000,"{'dataset': 'Synthetic', 'name': 'complex_512', 'size': 512, 'obstacle_density': 0.3, 'speed_mode': 'random', 'seed': 7}"
+gradient_256.npz,0.009944,0.263493,26.50,inf,1.000000,"{'dataset': 'Synthetic', 'name': 'gradient_256', 'size': 256, 'obstacle_density': 0.2, 'speed_mode': 'gradient', 'seed': 5}"
+maze_511.npz,0.019783,0.171274,8.66,inf,1.000000,"{'dataset': 'Synthetic', 'name': 'maze_511', 'size': 511, 'obstacle_density': 0.3, 'speed_mode': 'maze', 'seed': 11}"
+medium_256.npz,0.010079,0.274885,27.27,inf,1.000000,"{'dataset': 'Synthetic', 'name': 'medium_256', 'size': 256, 'obstacle_density': 0.2, 'speed_mode': 'uniform', 'seed': 3}"
+sparse_128.npz,0.005032,0.079390,15.78,inf,1.000000,"{'dataset': 'Synthetic', 'name': 'sparse_128', 'size': 128, 'obstacle_density': 0.1, 'speed_mode': 'uniform', 'seed': 1}"

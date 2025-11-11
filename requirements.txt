@@ -1,0 +1,17 @@
+# Optical Neuromorphic Eikonal Solver - Dependencies
+
+# Core dependencies
+numpy>=1.21.0
+moderngl>=5.8.0
+glfw>=2.5.0
+
+# Optional dependencies for benchmarking
+# scipy>=1.7.0  # For advanced analysis (optional)
+# matplotlib>=3.4.0  # For plotting (optional)
+# pillow>=8.3.0  # For image-based map loading (optional)
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For running tests
+# black>=22.0.0  # For code formatting
+# mypy>=0.950  # For type checking
+

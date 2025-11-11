@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Optical Neuromorphic Eikonal Solver"
+abstract: "A GPU-accelerated pathfinding solver using neuromorphic computing principles, achieving 30-300× speedup over CPU Dijkstra while maintaining sub-1% accuracy."
+authors:
+  - family-names: "[Last Name]"
+    given-names: "[First Name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Optional
+  # Add more authors as needed
+version: 1.0.0
+date-released: "2025-11-11"
+repository-code: "https://github.com/[username]/optical-neuromorphic-eikonal-solver"
+license: MIT
+keywords:
+  - pathfinding
+  - GPU computing
+  - eikonal equation
+  - neuromorphic computing
+  - OpenGL
+  - real-time navigation
+  - parallel algorithms
+  - benchmark
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"  # To be filled after Zenodo upload
+    description: "Zenodo DOI"
+preferred-citation:
+  type: article
+  title: "Optical Neuromorphic Computing for Real-Time Pathfinding: A GPU-Accelerated Eikonal Solver with Directional Memory"
+  authors:
+    - family-names: "[Last Name]"
+      given-names: "[First Name]"
+  year: 2025
+  # journal: "[Journal Name]"  # If published
+  # volume: X
+  # issue: Y
+  # start: ZZZ
+  # end: ZZZ+N
+  # doi: "10.XXXX/XXXXXX"  # If published
+
